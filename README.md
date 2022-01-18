@@ -57,10 +57,10 @@ examples:
 
 python .\JSFinderPlus.py -u http://xx.xx.xx.xx -d --open
 
-![image-20220113214506703](C:\Users\94040\.config\joplin-desktop\resources\image-20220113214506703.png)
+![image-20220113214506703](img\1.png)
 
 
 
 自动生成报告，点击url直接查看
 
-![image-20220113214541493](C:\Users\94040\.config\joplin-desktop\resources\image-20220113214541493.png)
+![image-20220113214541493](img\2)
