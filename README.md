@@ -57,10 +57,11 @@ examples:
 
 python .\JSFinderPlus.py -u http://xx.xx.xx.xx -d --open
 
-![image-20220113214506703](img\1.png)
+![1](https://user-images.githubusercontent.com/36331800/149890412-866f819e-ebd6-44d0-ba12-0f8bfd470983.png)
 
 
 
 自动生成报告，点击url直接查看
 
-![image-20220113214541493](img\2)
+![2](https://user-images.githubusercontent.com/36331800/149890520-8df16614-3157-4baf-b4ef-5828fb6e4e29.png)
+
